@@ -17,5 +17,6 @@ This project is a responsive web application that allows users to search for pla
 
 ## Setup
 1. Clone the repository: https://github.com/sathishch-ui/SearchPlaces.git
-2. Add your API URL to the `.env` file: API_URL=<your_api_endpoint>
+2. Run npm install
+3. Run npm start
 
